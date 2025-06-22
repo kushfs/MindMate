@@ -86,27 +86,3 @@ Made with ❤️ by @kushfs
 If you find this tool helpful, consider supporting its development:
 
 📱 UPI: kushagrasinha140@okicici
-
-📄 License
-This project is open-source under the MIT License.
-
-yaml
-Copy
-Edit
-
----
-
-Would you also like a fancy project banner (PNG/Markdown) or badges (e.g. Streamlit app live, Python version, License, etc.)? I can add that too.
-
-
-
-
-
-
-
-
-
-
-Tools
-
-
