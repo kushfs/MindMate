@@ -50,3 +50,63 @@
 
 ```bash
 pip install -r requirements.txt
+
+
+
+
+
+▶️ Run the app
+bash
+Copy
+Edit
+streamlit run app.py
+📁 Project Structure
+Copy
+Edit
+📦 MindMate/
+ ┣ 📂 model/
+ ┃ ┗ mental_health_model.pkl
+ ┣ 📜 app.py
+ ┣ 📜 requirements.txt
+ ┗ 📜 README.md
+💡 Future Enhancements
+User session saving (optional login)
+
+Feedback submission & mood journaling
+
+Dark/light mode toggle
+
+Multi-language support
+
+🙋‍♂️ Author
+Made with ❤️ by @kushfs
+🔗 Portfolio
+
+☕ Support
+If you find this tool helpful, consider supporting its development:
+
+📱 UPI: kushagrasinha140@okicici
+
+📄 License
+This project is open-source under the MIT License.
+
+yaml
+Copy
+Edit
+
+---
+
+Would you also like a fancy project banner (PNG/Markdown) or badges (e.g. Streamlit app live, Python version, License, etc.)? I can add that too.
+
+
+
+
+
+
+
+
+
+
+Tools
+
+
